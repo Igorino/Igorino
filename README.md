@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Igorino
+- 👋 Hi, I’m @Igorino!
 - 👀 I’m interested in gaming, programming, and well, gamedev :P
 - 🌱 I’m currently learning Java and Web Application development
 - 💞️ I’m looking to collaborate on java projects such as minecraft mods
