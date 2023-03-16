@@ -4,7 +4,7 @@
 - 🌱 I work genreally with Java and Web Application development
 - 💞️ I’m looking to collaborate on java projects, such as Minecraft mods
 - 📫 How to reach me: 
-  - Discord: Igorino#6215
+  - Discord: Igorino#3369
 
 <!---
 Igorino/Igorino is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
