@@ -1,8 +1,8 @@
 ### 👋 Hi, I’m @Igorino 👋
 
 - 👀 I’m interested in programming, gamedev and modding
-- 🌱 I work genreally with Java and Web Application development
-- 💞️ I’m looking to collaborate on java projects, such as Minecraft mods
+- 🌱 I work generally with Java and Web Application development
+- 💞️ I’m looking to collaborate on Jva projects, such as Web Applications and Minecraft mods
 - 📫 How to reach me: 
   - Discord: Igorino#3369
 
