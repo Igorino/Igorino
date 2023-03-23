@@ -2,7 +2,7 @@
 
 <p align="center"> 👀 I’m interested in programming, gamedev and modding 👀 </p>
 <p align="center"> 🌱 I work generally with Java and Web Application development 🌱 </p>
-<p align="center"> 💞️ I’m looking to collaborate on Jva projects, such as Web Applications and Minecraft mods 💞️ </p>
+<p align="center"> 💞️ I’m looking to collaborate on Java projects, such as Web Applications and Minecraft mods 💞️ </p>
 <p align="center">  How to reach me: </p>
 <p align="center"> Discord: Igorino#3369 </p>
 
