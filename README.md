@@ -1,10 +1,11 @@
-### 👋 Hi, I’m @Igorino 👋
+<h1 align="center">  Hi, I’m @Igorino!  </h1>
 
-- 👀 I’m interested in programming, gamedev and modding
-- 🌱 I work generally with Java and Web Application development
-- 💞️ I’m looking to collaborate on Jva projects, such as Web Applications and Minecraft mods
-- 📫 How to reach me: 
-  - Discord: Igorino#3369
+<p align="center"> 👀 I’m interested in programming, gamedev and modding 👀 </p>
+<p align="center"> 🌱 I work generally with Java and Web Application development 🌱 </p>
+<p align="center"> 💞️ I’m looking to collaborate on Jva projects, such as Web Applications and Minecraft mods 💞️ </p>
+<p align="center">  How to reach me: </p>
+<p align="center"> Discord: Igorino#3369 </p>
+
 
 <!---
 Igorino/Igorino is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
