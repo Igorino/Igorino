@@ -3,7 +3,7 @@
 <p align="center"> 👀 I’m interested in programming, gamedev and modding 👀 </p>
 <p align="center"> 🌱 I now work generally with Java and Web Application development 🌱 </p>
 <p align="center"> 💻 But I've taken a interest in AI and Machine Learning as of late 💻 </p>
-<p align="center"> 💞️ I’m looking to collaborate on Java projects, such as Web Applications and Minecraft mods 💞️ </p>
+<p align="center"> 💞️ I’m looking to collaborate on projects, such as Web Applications and Minecraft mods 💞️ </p>
 <p align="center">  How to reach me: </p>
 
 <p align="center"> 
