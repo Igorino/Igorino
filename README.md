@@ -5,7 +5,7 @@
 <p align="center"> 💞️ I’m looking to collaborate on Java projects, such as Web Applications and Minecraft mods 💞️ </p>
 <p align="center">  How to reach me: </p>
 
-<p align="center        "> 
+<p align="center"> 
   <a href="https://www.linkedin.com/in/igor-ferreira-aab3aa44/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/-Igor%20Ferreira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/igor-ferreira-aab3aa44/"/>
   </a>
